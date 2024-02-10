@@ -13,5 +13,6 @@ jobs:
       run: |
           echo Hello World2
           cat Index.html
+          cat Courses.html
     
     
